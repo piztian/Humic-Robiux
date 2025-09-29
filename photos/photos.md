@@ -1,0 +1,1 @@
+Para fotos estructura
