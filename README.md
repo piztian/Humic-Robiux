@@ -1,84 +1,61 @@
-# Humic Solutions Â· Proyecto Integral ðŸŒ±
+# 🌱 Humic Solutions — Agrobiotechnology & Solutions
 
-Este repositorio documenta los elementos visuales, estructurales y conceptuales del proyecto **Humic Solutions**, una propuesta integral de biofertilizaciÃ³n, regeneraciÃ³n de suelos y sostenibilidad agrÃ­cola.
-
----
-
-## ðŸ“¦ Paquetes Ofrecidos
-
-### ðŸŒ¿ *Plan Siembra Viva*
-Ideal para cultivos pequeÃ±os y medianos.  
-**Incluye:** Biofertilizantes lÃ­quidos.  
-ðŸ’µ **Precio:** $500 MXN  
-
-### ðŸšœ *Plan Cultivo Pro*
-DiseÃ±ado para producciones mÃ¡s amplias que requieren soporte.  
-**Incluye:** Biofertilizantes + AsesorÃ­a tÃ©cnica bÃ¡sica.  
-ðŸ’µ **Precio:** $850 MXN  
-
-### ðŸŒ¾ *Plan AgroMax*
-DiseÃ±ado para explotaciones agrÃ­colas intensivas.  
-**Incluye:** Biofertilizantes + AsesorÃ­a tÃ©cnica especializada.  
-ðŸ’µ **Precio:** $1,200 MXN  
-
-### ðŸ§¬ *SoluciÃ³n Personalizada*
-Adaptado a las necesidades especÃ­ficas de cada productor.  
-**Incluye:** DiagnÃ³stico, biofertilizantes, recomendaciones tÃ©cnicas.  
-ðŸ’µ **Precio:** A consultar  
+Este repositorio contiene los recursos visuales, documentos informativos y componentes web desarrollados para la marca **Humic Solutions**, especializada en productos orgánicos regenerativos y biofertilizantes.
 
 ---
 
-## âœ… Beneficios de contar con productos certificados OMRI
+## 🧪 Producto Destacado: HumicQ Max
 
-| Beneficio | Imagen |
-|----------|--------|
-| **Confianza y seguridad** en el uso de productos orgÃ¡nicos para el agricultor. | ![](./photos/omri/confianza.png) |
-| **Cumplimiento con las regulaciones orgÃ¡nicas** internacionales. | ![](./photos/omri/regulaciones.png) |
-| **Productos ecolÃ³gicos y sostenibles** que favorecen la regeneraciÃ³n del suelo. | ![](./photos/omri/sostenible.png) |
-| **Aumento de la absorciÃ³n de nutrientes** en las plantas y mayor resistencia al estrÃ©s. | ![](./photos/omri/absorcion.png) |
+**HumicQ Max** es un bioestimulante líquido formulado a partir de ácidos húmicos, fúlvicos, extractos vegetales y micronutrientes esenciales. Aporta beneficios directos al suelo, las raíces y el crecimiento general de las plantas.
 
----
-
-## ðŸ“‹ Encuesta de DiagnÃ³stico â€œConoce Tu Sueloâ€
-
-Se diseÃ±Ã³ una encuesta de 7 preguntas para conocer mejor las necesidades de los agricultores y ofrecerles el plan mÃ¡s adecuado.
+- ✅ Incrementa la capacidad de absorción de nutrientes.
+- ✅ Mejora la estructura y microbiología del suelo.
+- ✅ Refuerza la resistencia de las plantas al estrés.
+- ✅ OMRI Listed: Certificado para agricultura orgánica.
 
 ---
 
-## ðŸ–¼ Recursos Visuales
+## 🏷️ Certificación OMRI Listed
 
-- Logos (fondo blanco, transparente, verde)
-- FotografÃ­as de producto (bidÃ³n 5L y 20L)
-- ImÃ¡genes generadas para cada beneficio OMRI
-- DiseÃ±o de paquetes promocionales
+El sello **OMRI Listed®** garantiza que los productos son aptos para uso en agricultura orgánica bajo regulaciones internacionales.  
+Más info → [`photos/omri/omri.md`](photos/omri/omri.md)
 
 ---
 
-## ðŸŒ Sitio Web Oficial
+## 📦 Planes y Paquetes
 
-El sitio se encuentra disponible en:  
-ðŸ”— https://humicsolutions.bitrix24.site
-
-PÃ¡gina informativa sobre OMRI:  
-ðŸ”— https://humicsolutions.bitrix24.site/omriinfo/
-
----
-
-## ðŸ“ Estructura del Repositorio
-
-```
-Humic-Robiux/
-â”œâ”€â”€ photos/
-â”‚   â”œâ”€â”€ logos/
-â”‚   â”œâ”€â”€ productos/
-â”‚   â”œâ”€â”€ omri/
-â”‚   â””â”€â”€ paquetes/
-â”œâ”€â”€ scripts/
-â”œâ”€â”€ pages/
-â”‚   â””â”€â”€ omri.md
-â””â”€â”€ README.md
-```
+| Nombre del Plan     | Ideal Para                    | Incluye                                  | Precio     |
+|---------------------|-------------------------------|-------------------------------------------|------------|
+| 🌿 **Raíz**         | Cultivos pequeños y medianos  | Biofertilizantes líquidos                 | $500 MXN   |
+| 🍃 **Tierra Viva**  | Cultivos medianos a grandes   | Biofertilizantes + Asesoría técnica       | $900 MXN   |
+| 🌾 **Cosecha Pro**  | Producciones intensivas       | Fertilización + Asesoría + Visitas        | $1,200 MXN |
+| 🧬 **Solución Total** | Proyectos a la medida        | Diagnóstico + Diseño + Seguimiento        | $CONTACTAR |
 
 ---
 
-Â© 2025 Humic Solutions â€” Agrobiotechnology & Solutions  
+## 🧭 Diagnóstico Inicial
+
+Para diseñar la mejor solución para cada productor, contamos con una breve encuesta inicial:  
+👉 [`humicsolutions.bitrix24.site/diagnostico`](https://humicsolutions.bitrix24.site/diagnostico)
+
+---
+
+## 🖼️ Carrusel Visual (Beneficios OMRI)
+
+Las siguientes imágenes se usan en el sitio para destacar beneficios clave de nuestra certificación y filosofía:
+
+1. **Confianza y seguridad**: `photos/omri/confianza.png`  
+2. **Cumplimiento normativo**: `photos/omri/regulacion.png`  
+3. **Sostenibilidad**: `photos/omri/suelo-sostenible.png`  
+4. **Regeneración del suelo**: `photos/omri/regeneracion.png`
+
+---
+
+## 🌐 Sitio Web
+
+🔗 [https://humicsolutions.bitrix24.site](https://humicsolutions.bitrix24.site)  
+🔗 Página OMRI → [`/omriinfo`](https://humicsolutions.bitrix24.site/omriinfo/)
+
+---
+
+## 📁 Estructura del repositorio
